@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="396ecc2f-1c2e-44b9-8d4c-0490c5d1051a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kPuBMiux4Ijiqd5gP1q9YMWy0s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestCalcVolume">
+    <configuration name="CalcVolume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalcVolume" />
+      <module name="Wandisco" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCalcVolume" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Wandisco" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCalcVolume" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCalcVolume.cubeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Wandisco" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCalcVolume" />
+      <option name="METHOD_NAME" value="cubeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCalcVolume.sphereTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Wandisco" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCalcVolume" />
+      <option name="METHOD_NAME" value="sphereTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCalcVolume.tetrahedronTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Wandisco" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCalcVolume" />
+      <option name="METHOD_NAME" value="tetrahedronTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestCalcVolume" />
+        <item itemvalue="JUnit.TestCalcVolume.sphereTest" />
+        <item itemvalue="Application.CalcVolume" />
+        <item itemvalue="JUnit.TestCalcVolume.tetrahedronTest" />
+        <item itemvalue="JUnit.TestCalcVolume.cubeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="396ecc2f-1c2e-44b9-8d4c-0490c5d1051a" name="Default Changelist" comment="" />
+      <created>1605614410709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605614410709</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="468" y="305" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1605623925322">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="468" y="305" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1605623925322" />
+    <state x="533" y="169" key="#com.intellij.ide.util.MemberChooser" timestamp="1605615183666">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="533" y="169" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1605615183666" />
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1605623631797">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1605623631797" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1605623631796">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1605623631796" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1605623631795">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1605623631795" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1605623631796">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1605623631796" />
+    <state x="229" y="100" key="SettingsEditor" timestamp="1605623451532">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="229" y="100" key="SettingsEditor/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1605623451532" />
+    <state x="432" y="362" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1605618582433">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="432" y="362" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1605618582433" />
+  </component>
+</project>
